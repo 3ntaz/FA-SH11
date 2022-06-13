@@ -16,3 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fa-sh11&show_icons=true&locale=en" alt="fa-sh11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fa-sh11&" alt="fa-sh11" /></p>
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
